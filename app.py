@@ -231,7 +231,7 @@ def generate_pdf_report(patient_details, prob, risk_level, health_score, ai_advi
 # --- 3. LAYOUT & SIDEBAR ---
 col_head1, col_head2 = st.columns([1, 10])
 with col_head1:
-    st.image(r"C:\Users\devpl\.gemini\antigravity\brain\34762e3b-c2eb-45d7-8a9f-f84537dce855\cardio_logo_1775408067664.png", use_container_width=True)
+    st.image(" ❤️ ", use_container_width=True)
 with col_head2:
     st.title("Advanced Cardiology Dashboard")
     st.markdown("<p style='color:#a0a0a0; font-size:1.1rem;'>Professional Data-Driven Cardiac Risk Analysis</p>", unsafe_allow_html=True)
