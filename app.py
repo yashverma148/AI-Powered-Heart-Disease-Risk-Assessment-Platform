@@ -239,7 +239,7 @@ with col_head2:
 st.sidebar.header("📋 Patient Profile")
 
 # Gemini API Key
-gemini_api_key = "AIzaSyDaieINw02UfsDSt83VWErXpbI06d3hUo4"
+gemini_api_key = ["gemini_api_key"]
 
 # Input Fields
 col_sb1, col_sb2 = st.sidebar.columns(2)
