@@ -1,5 +1,5 @@
 # ❤️ Advanced Cardiology Dashboard
-
+Link :-  https://ai-powered-heart-disease-risk-assessment-platform-8kmhctnb8rey.streamlit.app/
 A sophisticated, AI-enhanced medical application designed for predicting cardiovascular risks accurately. This platform uses an intelligent **K-Nearest Neighbors (KNN)** Machine Learning Model in the backend, while operating as a fully featured generative application using **Google's Gemini 2.5 AI** to deliver personalized clinical recommendations.
 
 ---
